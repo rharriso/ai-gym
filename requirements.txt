@@ -2,6 +2,7 @@ absl-py==0.1.11
 appnope==0.1.0
 astor==0.6.2
 astroid==1.6.0
+atari-py==0.1.1
 bleach==1.5.0
 -e git+https://github.com/pybox2d/pybox2d@3818cf5ddd9485d7932bd3ade7f846557fb3e190#egg=Box2D
 certifi==2017.11.5
