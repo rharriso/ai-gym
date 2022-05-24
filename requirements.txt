@@ -72,7 +72,7 @@ simplegeneric==0.8.1
 simplejson==3.13.2
 six==1.11.0
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.6.4
 tensorflow-gpu==1.6.0
 termcolor==1.1.0
 terminado==0.8.1
