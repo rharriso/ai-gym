@@ -5,7 +5,7 @@ astroid==1.6.0
 atari-py==0.1.1
 bleach==1.5.0
 -e git+https://github.com/pybox2d/pybox2d@3818cf5ddd9485d7932bd3ade7f846557fb3e190#egg=Box2D
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.2.1
